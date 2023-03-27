@@ -1,0 +1,37 @@
+.textBox{
+    display: flex;
+    justify-content: space-between;
+}
+.heading{
+    display:flex;
+    justify-content: center;
+    background-color: white;
+    color: rgb(9, 9, 161);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.centerBox{
+    /* display: flex;
+    justify-content: center; */
+    background-color: white;
+    height: 300px;
+    width: 500px;
+    border-radius: 10px;
+    /* align-items: center; (box madyalovi anni center ki ochayi)*/
+}
+.main{
+    display: flex;
+    justify-content: center;
+    /* text-align: center; */
+    padding: 90px 0px;
+}
+.sub-header{
+    color: rgb(9, 9, 161);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    padding: 10px 0px 60px 0px;
+    font-size: x-large;
+}
+.formDiv{
+    justify-content: center;
+    display:flex
+}
